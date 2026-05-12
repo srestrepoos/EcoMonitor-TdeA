@@ -8,6 +8,8 @@
     "scheme": "ecomonitor",
     "userInterfaceStyle": "dark",
     "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
       "backgroundColor": "#0a0f1a"
     },
     "android": {
