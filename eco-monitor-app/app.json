@@ -15,7 +15,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0a0f1a"
       },
-      "package": "co.tdea.ecomonitor"
+      "package": "co.tdea.ecomonitor",
+      "newArchEnabled": false
     },
     "plugins": [
       "expo-router",
