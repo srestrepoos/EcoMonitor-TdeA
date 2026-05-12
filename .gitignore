@@ -28,6 +28,13 @@ Thumbs.db
 .claude/
 .vscode/
 
+# Skills (Claude Code agents)
+.agents/
+skills-lock.json
+
+# Supabase CLI local
+supabase/
+
 # Archivos temporales del proyecto
 eco_prompt_text.txt
 "C:UserssantiDownloads*"
