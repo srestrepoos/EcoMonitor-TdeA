@@ -17,9 +17,17 @@
       },
       "package": "co.tdea.ecomonitor"
     },
-    "plugins": ["expo-router"],
-    "experiments": {
-      "typedRoutes": true
-    }
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "17c1073e-0a64-4466-ae3c-c39b67ad2d3e"
+      }
+    },
+    "owner": "srestrepo"
   }
 }
