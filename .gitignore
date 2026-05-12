@@ -1,0 +1,38 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+.expo/
+
+# Entorno (contienen claves — NO subir)
+.env
+.env.local
+.env.production
+
+# Vercel
+.vercel/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arduino
+*.elf
+*.hex
+*.bin
+
+# IDE / herramientas
+.idea/
+.claude/
+.vscode/
+
+# Archivos temporales del proyecto
+eco_prompt_text.txt
+"C:UserssantiDownloads*"
+
+# Otros archivos del repo que no son EcoMonitor (páginas previas)
+Admin.html
+/Index.html
+Img/
