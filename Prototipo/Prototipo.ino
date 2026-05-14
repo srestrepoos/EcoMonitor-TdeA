@@ -8,8 +8,8 @@
 #include <HTTPClient.h>
 
 /* ======= WiFi ======= */
-const char* WIFI_SSID     = "SASA";
-const char* WIFI_PASSWORD = "1035854625";
+const char* WIFI_SSID     = "POCO X7 Pro";
+const char* WIFI_PASSWORD = "1018235381";
 
 /* ======= Supabase ======= */
 const char* SUPABASE_URL         = "https://zrrtoasbescwvlesrvfk.supabase.co";
