@@ -92,7 +92,7 @@ void sendToSupabase() {
 
   char body[128];
   snprintf(body, sizeof(body),
-    "{\"voltage\":%.2f,\"current\":%.2f,\"power\":%.2f,\"energy_wh\":%.4f}",
+    "{\"voltage\":%.2f,\"current_a\":%.2f,\"power_w\":%.2f,\"energy_wh\":%.4f}",
     Vrms, Irms, Power, Energy_Wh
   );
 
